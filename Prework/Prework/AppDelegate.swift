@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Prework
 //
-//  Created by Khoi Nguyen on 8/6/21.
+//  Created by Thy Nguyen on 8/6/21.
 //
 
 import UIKit
